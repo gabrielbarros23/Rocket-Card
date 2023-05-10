@@ -4,6 +4,40 @@ RocketCard é uma pequena aplicação web onde o usuário colocar o seu nickname
 
 A ideia foi dos desafios da Rocketseat: [RocketCard Desafio](https://app.rocketseat.com.br/discover/challenges/rocketcard)
 
+## Deploy
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/gabrielbarros23/Rocket-Card.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd rocket-card
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
+
+## Preview
+
+![image](https://github.com/gabrielbarros23/Foccus-Timer/assets/91755263/2972678f-08bc-4a3f-9409-db2871a0f473)
+
+![image](https://github.com/gabrielbarros23/Foccus-Timer/assets/91755263/daecee11-7239-4075-b81c-a5b5c714ae74)
+
+
+
 ## Stacks
 
 - [React](https://react.dev)
@@ -15,10 +49,3 @@ A ideia foi dos desafios da Rocketseat: [RocketCard Desafio](https://app.rockets
 - [Autoprefixer](https://github.com/postcss/autoprefixer/blob/main/README.md)
 - [Postcss](https://postcss.org)
 - [html2canvas](https://html2canvas.hertzen.com/documentation/)
-## Preview
-
-![image](https://github.com/gabrielbarros23/Foccus-Timer/assets/91755263/2972678f-08bc-4a3f-9409-db2871a0f473)
-
-![image](https://github.com/gabrielbarros23/Foccus-Timer/assets/91755263/daecee11-7239-4075-b81c-a5b5c714ae74)
-
-
